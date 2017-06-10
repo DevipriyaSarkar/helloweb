@@ -1,39 +1,40 @@
-Activity Title: STELL-AR adVentuRe
+**কার্যকলাপ শিরোনাম:** STELL-AR adVentuRe
 
-Image: http://imgur.com/YST7RbS
+**চিত্র:** http://imgur.com/YST7RbS
 
-Image credit: Praveen Kumar G
+**চিত্র ক্রেডিট:** প্রবীন কুমার জি
 
-Made by: Praveen Kumar G ,Shachindra,Santosh Eswaran,Karan Ganesan,Vasantha Rajan & Mozilla
+**তৈরি করেছেন:** প্রবীন কুমার জি, সচিন্দ্র, সন্তোষ ইশ্বরন, করন গনেশন, বসন্তা রাজন এবং মোজিলা
 
-Time: 2-3 Hours
+**সময়:** ২-৩ ঘন্টা
 
-Learning Objectives:
--To familiarize VR in the teaching field
--Improve understanding with the help of visual feed from a set of animated libraries   with live audio and feel
--Innovate our existing education system
+**শিক্ষার উদ্দেশ্য:**
+* শিক্ষার ক্ষেত্রে VR পরিচিতি
+* লাইভ অডিও এবং অনুভূতি সহ অ্যানিমেটেড লাইব্রেরির একটি সেট থেকে ভিজ্যুয়াল ফিডের সাহায্যে বোঝার উন্নতি করা
+* আমাদের বিদ্যমান শিক্ষা ব্যবস্থা উদ্ভাবন করা
 
-Audience:
-Children between age 10 to 15 years.
+**শ্রোতা:**
+১০ থেকে ১৫ বছর বয়সী শিশুরা |
 
-Materials:
-Caddy
-A-Frame
-NodeJS
-Google Cardboard
-Socket
-Arduino 101
+**উপকরণ:**
+* ক্য়েডি
+* এ-ফ্রেম
+* নোড-JS
+* গূগল কার্ডবোর্ড
+* সকেট
+* আর্ডিওনো 101
 
-Preparation
--The facilitator should learn the basics of VR before teaching this lesson
--Things to ponder:
-	Think about how to indulge students in VR by its ease of use
-	Explaining VR to students and making them understand its working
-	Think how to integrate educational content into VR
+**প্রস্তুতি**
+* এই পাঠটি শেখানোর আগেই সাহায্য়কারিকে VRএর মুল বিষয় গুলি শিখতে হবে    
+* বিবেচ্য় বিষয়:    
+	* VR ব্য়বহার করে শিক্ষার্থীদের উত্সাহিত করতে হবে     
+	* VR কি ভাবে কাজ করে তা শিক্ষার্থীদের ব্য়াখ্য়া করতে হবে      
+	* শিক্ষামূলক সামগ্রীতে VR কি ভাবে সমন্বিত করবে সে বিষয়ে চিন্তা করতে হবে     
 
-##Introduction
-This is a new way of learning our hectic syllabus in a cool way.Students are given Virtual Reality headsets and their educational content that is loaded in is explored by them with their relative motion .They are given specific devices that have gyro sensors and detect their direction of motion and simultaneously the live visuals in the VR headset keeps in sync.
-There are various contents that is easily viewable in VR like solar system and exploration inside a forest.
+## ভূমিকা
+এটি আমাদের তাত্পর্য্য়পুর্ন সিলেবাস শেখার একটি নতুন উপায় | শিক্ষার্থীদের ভার্চুয়াল রিয়ালিটি হেডসেট দেওয়া হয় এবং তাদের শিক্ষামূলক সামগ্রীগুলি তাদের আপেক্ষিক গতির সাথে তাদের দ্বারা অনুসন্ধান করা হয় | তাদের নির্দিষ্ট ডিভাইস দেওয়া হয় যাতে জাইরো সেন্সর রয়েছে এবং গতির দিকনির্দেশনা সনাক্ত করে এবং একই সাথে VR হেডসেটের লাইভ ভিউগুলিকে তালমিল রাখে |
+বিভিন্ন উপাদান যেমন সৌরশক্তির মতো সহজলভ্য এবং বনভূমির ভিতরে অনুসন্ধান গুলি VRএর মাধ্য়মে দেখা যায় |
 
-Offline Activity
-The educational syllabus is loaded onto the mobile phone using an app or using web based app
+**অফলাইন কার্যকলাপ**
+
+শিক্ষাগত পাঠ্যসূচী একটি অ্যাপ্লিকেশন ব্যবহার করে বা ওয়েব ভিত্তিক অ্যাপ্লিকেশন ব্যবহার করে মোবাইল ফোনে লোড করা হয় |
